@@ -1,8 +1,7 @@
 import React,{useState} from 'react'
 import DatePicker from 'react-datepicker'
 import "react-datepicker/dist/react-datepicker.css";
-import './modal.css'
-import Cancel from '../../images/cancel.png';
+import Cancel from '../images/cancel.png'
 const LeaveModal = ({onCancel}) => {
     const [startDate, setStartDate] = useState(null);
     const [endDate, setEndDate] = useState(null);

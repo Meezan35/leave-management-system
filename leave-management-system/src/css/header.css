@@ -1,0 +1,20 @@
+header {
+    
+    height: 50px;
+    width: 100vw;
+    background-color:rgb(32, 177, 255);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.title {
+    margin-left: 30px;
+}
+
+.header-btn {
+    margin-right : 30px;
+    cursor: pointer;
+}

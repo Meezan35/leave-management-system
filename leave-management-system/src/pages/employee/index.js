@@ -1,5 +1,5 @@
 import React, {useState}  from 'react'
-import LeaveModal from './leaveModal'
+import LeaveModal from '../../components/leaveModal'
 import FullCalendar from '@fullcalendar/react' 
 import dayGridPlugin from '@fullcalendar/daygrid' 
 
