@@ -1,0 +1,19 @@
+.emp-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .emp-details {
+    border: 1px solid #ffffff;
+    text-align: center;
+    padding: 8px;
+    font-size: 32px;
+    background-color: rgb(117, 201, 250);
+  }
+
+  .emp-details-header{
+    font-size: 32px;
+    border: 2px solid #333;
+  }
+  
+  

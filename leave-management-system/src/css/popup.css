@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.confirm-modal{
+    position: absolute;
+    top: 30%;
+    z-index: 9999;
+    left: 35%;
+}
+
+.confirm-container {
+    background-color: white;
+    height: 15em;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.55em rgb(156 156 156);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 16px;
+
+}
+
+.btn-container{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between; }
+
+.confirm-header{
+  
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    
+}

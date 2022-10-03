@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.admin-container {
+    display: flex;
+    flex-direction: row;  
+}
+ul{
+    list-style: none;
+}
+
+
+.drawer-container {
+    width: 240px;
+    height: 100vh;  
+
+}
+
+.admin-action-item {
+    height: 100px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container-items {
+    width: 100vw;
+    height: 100vh;
+    
+}
+
